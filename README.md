@@ -6,7 +6,7 @@ android app developer/game developer
 
 I am a android app developer and also I am a game developer. I have lots of knowledge about unity game engine, React-Native, C++, C#, java Script, My SQL
 
-* 🌍  I'm based in Pakistan KPK
+* 🌍  I'm based in Pakistan,KPK
 * ✉️  You can contact me at [engshahid649@gmail.com](mailto:engshahid649@gmail.com)
 * 🧠  I'm learning React-Native
 * 🤝  I'm open to collaborating on Projects
