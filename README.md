@@ -5,7 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 unity 3D game developer
 ------------------------------------
 
-I am a Unity 3D game developer  I have lots of knowledge about unity game engine C++, C#, java Script.
+I’m a game developer with a strong focus on Unity and 3D game development. I recently completed a 3D car racing game where I designed realistic physics, smooth gameplay, and engaging levels.
+My skills include C# scripting, game design, and optimizing performance for a seamless user experience. I’m always looking to improve my development skills and stay up to date with the latest industry trends. On my GitHub, you’ll find my projects, including my car racing game and other fun prototypes that showcase my work.
+Feel free to check out my projects, contribute, or reach out if you're interested in collaboration or learning more about game development!
 
 * 🌍  I'm based in Pakistan KPK
 * ✉️  You can contact me at [engshahid649@gmail.com](mailto:engshahid649@gmail.com)
