@@ -5,9 +5,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 unity 3D game developer
 ------------------------------------
 
-I’m a game developer with a strong focus on Unity and 3D game development. I recently completed a 3D car racing game where I designed realistic physics, smooth gameplay, and engaging levels.
-My skills include C# scripting, game design, and optimizing performance for a seamless user experience. I’m always looking to improve my development skills and stay up to date with the latest industry trends. On my GitHub, you’ll find my projects, including my car racing game and other fun prototypes that showcase my work.
-Feel free to check out my projects, contribute, or reach out if you're interested in collaboration or learning more about game development!
+I’m a game developer specializing in Unity and 3D game development. I recently completed a 3D car racing game, where I focused on crafting realistic physics, smooth gameplay, and engaging animations to bring the game to life.
+In addition to the core mechanics, I implemented an intuitive UI/UX design, including interactive menus, HUD elements, and animations to enhance the user experience. I also integrated sound effects for car engines, collisions, and ambient sounds, as well as background music to immerse players in the racing experience.
+
+My skills include:
+C# scripting for game mechanics and logic
+Animation (vehicle movements, camera transitions, UI animations)
+UI/UX design (menus, HUD, and feedback systems)
+Sound design (sound effects, music, and environmental audio)
+Performance optimization for smooth gameplay
+Game testing and debugging
+I’m always eager to refine my skills and create immersive experiences. Check out my GitHub for my completed projects, including the car racing game, prototypes, and tools I’ve developed.
+
+Feel free to connect if you’d like to collaborate or have any questions!
 
 * 🌍  I'm based in Pakistan KPK
 * ✉️  You can contact me at [engshahid649@gmail.com](mailto:engshahid649@gmail.com)
